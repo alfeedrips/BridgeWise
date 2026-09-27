@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/cross-chain-duplicate-message-detection",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/cross-chain-duplicate-message-detection": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/cross-chain-duplicate-message-detection",
+    "origin"
+  ]
+}
